@@ -1,3 +1,3 @@
-vless://pass@add1.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1l.vpshsn.cfd#VIP1
-vless://pass@add2.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1l.vpshsn.cfd#VIP1
-vless://pass@mtn1.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1l.vpshsn.cfd#VIP1
+vless://pass@add1.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1l.vpshsn.cfd#1224
+vless://pass@add2.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1l.vpshsn.cfd#1224
+vless://pass@mtn1.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1l.vpshsn.cfd#1224
