@@ -1,3 +1,4 @@
 vless://pass@31.43.179.57:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1aqwedsazxcfdg2.vpshsn.cfd#0107
 vless://pass@45.85.119.120:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1aqwedsazxcgghhtt1.vpshsn.cfd#0107
 vless://pass@159.246.55.58:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=bmi&sni=1aqwedsazxcgghh4.vpshsn.cfd#0107
+vmess://eyJhZGQiOiIzMS40My4xNzkuMTk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiZGwuZmlsbWluby5vbmxpbmUiLCJpZCI6ImZhNWE2ZjBlLWFiOWQtNDViZi1lM2VkLTEwMmRkNWZlZTZiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9ub2RlanMiLCJwb3J0IjoiMjA5NiIsInBzIjoi2YTbjNmG2qkg2YXZiNmC2KoiLCJzY3kiOiJhdXRvIiwic25pIjoiZGwuZmlsbWluby5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
