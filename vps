@@ -1,3 +1,3 @@
-vless://pass@31.43.179.57:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=6yh.vpslink.cfd#0110
-vless://pass@45.85.119.120:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=5tg.vpslink.cfd#0110
-vless://pass@159.246.55.58:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=4rf.vpslink.cfd#0110
+vless://pass@31.43.179.57:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=6yhn.vpslink.cfd#0110
+vless://pass@45.85.119.120:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=5tgb.vpslink.cfd#0110
+vless://pass@159.246.55.58:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=4rfv.vpslink.cfd#0110
