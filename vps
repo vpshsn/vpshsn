@@ -1,4 +1,4 @@
-vless://pass@45.85.118.175:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asd.vpslink.cfd#همراه اول ۰۱۱۳
+vless://pass@45.8.105.48:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asd.vpslink.cfd#همراه اول ۰۱۱۳
  
 vless://pass@45.85.119.120:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asd.vpslink.cfd#۰۱۱۳ایرانسل 
 vless://pass@104.22.67.28:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asd.vpslink.cfd#۰۱۱۵مخابرات
