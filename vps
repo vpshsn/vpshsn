@@ -1,4 +1,4 @@
-vless://pass@104.22.67.28:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asdfgy4.vpslink.cfd#MCI 0117
+vless://pass@104.22.67.28:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asdfgy4.vpshsn.ir#MCI 0118
 
-vless://pass@45.85.119.120:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asdfgr5.vpshsn.cfd#MTN 0117
-vless://pass@172.64.132.172:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asdfgqt6.vpslink.cfd#TCI 0117
+vless://pass@45.85.119.120:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asdfgr5.vpshsn.cfd#MTN 0118
+vless://pass@172.64.132.172:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asdfgqt6.vpshsn.ir#TCI 0118
