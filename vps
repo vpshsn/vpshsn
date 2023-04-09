@@ -1,4 +1,4 @@
-vless://pass@104.21.7.65:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=y13.vpshsn.ir#MCI 0119
+vless://pass@104.21.7.65:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=y13.vpshsn.ir#MCI 0119
 
 vless://pass@45.85.119.120:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=r14.vpshsn.cfd#MTN 0119
 vless://pass@172.64.132.172:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=t15.vpshsn.ir#TCI 0119
