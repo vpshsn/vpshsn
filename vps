@@ -1,4 +1,4 @@
-vless://pass@170.114.45.250:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as1.alaviali.cfd#MCI 0120
+vless://pass@170.114.46.165:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as1.alaviali.cfd#MCI 0120
 
 vless://pass@45.85.119.120:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as.vpslink.cfd#MTN 0120
 vless://pass@172.64.132.172:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as.alaviali.cfd#TCI 0120
