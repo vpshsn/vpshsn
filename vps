@@ -1,3 +1,3 @@
 vless://pass@mtn.ircf.space:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as14.alaviali.cfd#MTN 0127
-vless://pass@170.114.45.250:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as15.alaviali.cfd#TCI 0127
-vless://pass@1mci.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as16.alaviali.cfd#MCI 0127
+vless://pass@www.lir.services:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as15.alaviali.cfd#TCI 0127
+vless://pass@wpengine.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as16.alaviali.cfd#MCI 0127
