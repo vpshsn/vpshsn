@@ -1,6 +1,6 @@
-vless://pass@95.179.154.130:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as14.alaviali.cfd#MTN 0127
-vless://pass@www.lir.services:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as15.alaviali.cfd#TCI 0127
-vless://pass@www.wpengine.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as16.alaviali.cfd#MCI 0127
+vless://pass@95.179.154.130:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as14.alaviali.cfd# 0127
+vless://pass@141.193.213.20:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as15.alaviali.site# 0128
+vless://pass@www.wpengine.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as16.alaviali.cfd# 0127
 vless://64bced54-aaf4-4f92-9cad-47074132f55a@t.my-server.life:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=grpc47381&sni=t.my-server.life#%D9%84%DB%8C%D9%86%DA%A9+%D9%85%D9%88%D9%82%D8%AA
 vless://aff9959d-1afd-4314-d5f2-8db03b8a8d7d@t.my-server.life:443?path=%2Fwss38415%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=t.my-server.life#%D9%84%DB%8C%D9%86%DA%A9+%D9%85%D9%88%D9%82%D8%AA
 trojan://iARcAfTKdn@t.my-server.life:443?mode=gun&security=tls&type=grpc&serviceName=grpc37871&sni=t.my-server.life#%D9%84%DB%8C%D9%86%DA%A9+%D9%85%D9%88%D9%82%D8%AA
