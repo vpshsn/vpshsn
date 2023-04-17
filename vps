@@ -2,4 +2,5 @@ vless://pass@95.179.154.130:8443?mode=gun&security=tls&encryption=none&alpn=h2,h
 vless://pass@141.193.213.20:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as18.alaviali.site# 0128
 vless://pass@www.wpengine.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as19.alaviali.cfd# 0127
 vless://pass@[::ffff:6814:8757]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=a5hhhs.alaviali.cfd#0127
+vless://pass@104.17.157.241:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=asdfgr8.alaviali.cfd#0128
 vless://491048ea-dae4-4ce8-937d-aaaeb5ec2485@95.179.150.191:2083?path=%2F&security=tls&encryption=none&host=dfdd3.alaviali.site&fp=chrome&type=ws&sni=fdggff33.alaviali.site#%D9%85%D9%88%D9%82%D8%AA+.+%D9%86%DB%8C%D8%A7%D8%B2+%D8%A8%D9%87+%D9%BE%D8%B3%D9%88%D8%B1%D8%AF+%D9%86%DB%8C%D8%B3%D8%AA
