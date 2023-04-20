@@ -1,7 +1,6 @@
-vless://pass@95.179.154.130:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as20.alaviali.cfd# 0128
-vless://pass@141.193.213.20:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as21.alaviali.site# 0128
-vless://pass@www.wpengine.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as22.alaviali.cfd# 0128
-vless://pass@[::ffff:6814:8757]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=a23.alaviali.cfd#0128
-vless://pass@104.17.157.241:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as24.alaviali.cfd#0128
-vless://pass@216.24.57.1:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as24.alaviali.cfd#0128
-vless://491048ea-dae4-4ce8-937d-aaaeb5ec2485@95.179.150.191:2083?path=%2F&security=tls&encryption=none&host=dfdd3.alaviali.site&fp=chrome&type=ws&sni=fdggff33.alaviali.site#موقت نیاز به پسورد ندارد
+vless://pass@95.179.154.130:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as25.alaviali.cfd# 0128
+vless://pass@141.193.213.20:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as26.alaviali.site# 0128
+vless://pass@dashboard.render.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as27.alaviali.cfd# 0128
+vless://pass@[::ffff:6814:8757]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=a28.alaviali.cfd#0128
+vless://pass@104.17.157.241:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as29.alaviali.cfd#0128
+vless://pass@216.24.57.1:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=/current_time&sni=as30.alaviali.cfd#0128
