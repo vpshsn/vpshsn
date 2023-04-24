@@ -1,4 +1,4 @@
-vless://pass@95.179.150.52:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as31.alaviali.cfd&allowInsecure=1# 0203
+vless://pass@95.179.247.71:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as31.alaviali.cfd&allowInsecure=1# 0204
 vless://pass@mtn.ircf.space:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as32.alaviali.site&allowInsecure=1# 0202
 vless://pass@developers.cloudflare.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as33.alaviali.cfd&allowInsecure=1# 0202
 vless://pass@[::ffff:6814:8757]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=a34.alaviali.cfd&allowInsecure=1# 0202
