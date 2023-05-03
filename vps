@@ -1,5 +1,5 @@
 vless://pass@95.179.247.71:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as43.alaviali.site&allowInsecure=1# 0212
-vless://pass@mtn.ircf.space:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as44.alaviali.site&allowInsecure=1# 0212
+vless://pass@63.141.128.16:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as44.alaviali.site&allowInsecure=1# 0212
 vless://pass@[::ffff:ac40:84ac]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as45.alaviali.cfd&allowInsecure=1# 0212
 vless://pass@[::ffff:6814:8757]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=a46.alaviali.cfd&allowInsecure=1# 0212
 vless://pass@141.193.213.20:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as47.alaviali.cfd&allowInsecure=1# 0212
