@@ -1,7 +1,7 @@
-vless://pass@95.179.246.191:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as61b.alaviali.site&allowInsecure=1# 0305
-vless://pass@185.146.173.123:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as62b.alaviali.site&allowInsecure=1# 0305
-vless://pass@[::ffff:ac40:84ac]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as1b.alavialiali.cfd&allowInsecure=1# 0305
-vless://pass@[::ffff:6814:8757]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as2b.alavialiali.cfd&allowInsecure=1# 0305
-vless://pass@141.193.213.20:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as3b.alavialiali.cfd&allowInsecure=1# 0305
+vless://pass@95.179.246.191:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as61c.alavialiali.cfd&allowInsecure=1# 0308
+vless://pass@185.146.173.123:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as62c.alavialiali.cfd&allowInsecure=1# 0308
+vless://pass@[::ffff:ac40:84ac]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as1c.alavialiali.cfd&allowInsecure=1# 0308
+vless://pass@[::ffff:6814:8757]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as2c.alavialiali.cfd&allowInsecure=1# 0309
+vless://pass@141.193.213.20:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as3c.alavialiali.cfd&allowInsecure=1# 0308
 vless://pass@104.31.16.62:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as63c.alavialiali.cfd&allowInsecure=1# 0308
-vless://pass@188.244.122.191:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as4b.alavialiali.cfd&allowInsecure=1# 0305
+vless://pass@188.244.122.191:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=as4c.alavialiali.cfd&allowInsecure=1# 0308
