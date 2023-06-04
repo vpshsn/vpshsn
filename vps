@@ -1,8 +1,8 @@
 vless://pass@95.179.247.71:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=p1a.aliilia.fun&allowInsecure=1# 0310
-vless://pass@185.146.173.123:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=p1.omidali.cfd&allowInsecure=1# 0314
-vless://pass@141.193.213.20:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=p1.omidali.cfd&allowInsecure=1# 0314
+vless://pass@185.146.173.123:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=p2.omidali.cfd&allowInsecure=1# 0314
+vless://pass@141.193.213.20:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=p2.omidali.cfd&allowInsecure=1# 0314
 
-vless://pass@104.31.16.62:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=p1.omidali.cfd&allowInsecure=1# 0314
+vless://pass@104.31.16.62:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&sni=p2.omidali.cfd&allowInsecure=1# 0314
 
 
 
