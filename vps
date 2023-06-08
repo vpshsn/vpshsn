@@ -1,5 +1,5 @@
 vless://pass@95.179.247.71:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=Stop&sni=p1b.aliilia.fun&allowInsecure=1# ایرانسل
-vless://pass@193.151.151.93:8443?mode=multi&security=none&encryption=none&type=grpc&serviceName=Stop&#همراه و مخابرات 
+vless://PASS@193.151.151.93:8443?type=grpc&serviceName=Stop&mode=multi#همراه اول و مخابرات 
 
 vless://58146e2a-777e-49a5-e549-7037206af971@193.151.151.93:55570?type=grpc&serviceName=&mode=multi#لینک موقت
 
