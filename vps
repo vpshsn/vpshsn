@@ -1,4 +1,5 @@
 vless://pass@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=p91.alaviali.cfd&allowInsecure=1#لینکa
 vless://pass@190.93.245.101:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=p91.alaviali.cfd&allowInsecure=1#لینکbهمراهاول
+vless://pass@172.67.163.181:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=p91.alaviali.cfd&allowInsecure=1#لینکcهمراهاول
 vless://pass@91.107.166.179:443?security=reality&encryption=none&pbk=WFcJrcICmQ4hbetbdDn565CdSIpwVLjrYEpRC_Vd_i8&headerType=none&fp=chrome&spx=%2Fvps&type=tcp&flow=xtls-rprx-vision&sni=uplod.ir&sid=7660a3a6#لینک bR2
 
