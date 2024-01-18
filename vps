@@ -1,6 +1,4 @@
-vless://pass@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=ali.aliilia.fun&allowInsecure=1#لینک ایرانسل1
-vless://pass@www-cloudflare.speedtest.net:443?path=%2Fhsn&security=tls&encryption=none&host=ali.asdewq.cfd&fp=chrome&type=ws&sni=ali.asdewq.cfd#s2مخابرات
-vless://pass@172.67.163.181:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=ali.aliilia.fun&allowInsecure=1#لینک همراه اول1
-vless://pass@91.107.166.179:443?security=reality&encryption=none&pbk=WFcJrcICmQ4hbetbdDn565CdSIpwVLjrYEpRC_Vd_i8&headerType=none&fp=chrome&spx=%2Fvps&type=tcp&flow=xtls-rprx-vision&sni=greenpepper.ir&sid=7660a3a6#لینک bR
+vless://pass@www.fipek.com:443?path=%2Fhsn&security=tls&encryption=none&host=ali.vpshsn.cfd&fp=chrome&type=ws&sni=ali.vpshsn.cfd#linkA
+vless://pass@185.17.136.163:443?security=reality&encryption=none&pbk=WFcJrcICmQ4hbetbdDn565CdSIpwVLjrYEpRC_Vd_i8&headerType=none&fp=chrome&spx=%2Fvps&type=tcp&flow=xtls-rprx-vision&sni=greenpepper.ir&sid=7660a3a6#linkR
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#لینک موقت
 
