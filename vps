@@ -2,4 +2,141 @@ vless://pass@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&s
 vless://pass@www.fipek.com:443?path=%2Fhsn&security=tls&encryption=none&host=qaz.asdewq.cfd&fp=chrome&type=ws&sni=qaz.asdewq.cfd#linkAA
 vless://pass@185.17.136.163:443?security=reality&encryption=none&pbk=WFcJrcICmQ4hbetbdDn565CdSIpwVLjrYEpRC_Vd_i8&headerType=none&fp=chrome&spx=%2Fvps&type=tcp&flow=xtls-rprx-vision&sni=greenpepper.ir&sid=7660a3a6#linkR
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#لینک موقت
-
+{
+    "dns": {
+        "hosts": {
+            "domain:googleapis.cn": "googleapis.com"
+        },
+        "servers": [
+            "0.0.0.0"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "userLevel": 8
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 10809,
+            "protocol": "http",
+            "settings": {
+                "userLevel": 8
+            },
+            "tag": "http"
+        }
+    ],
+    "log": {
+        "loglevel": "warning"
+    },
+    "outbounds": [
+        {
+            "mux": {
+                "concurrency": -1,
+                "enabled": false,
+                "xudpConcurrency": 8,
+                "xudpProxyUDP443": ""
+            },
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "104.20.27.27",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "👈",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "Stop"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": true,
+                    "fingerprint": "",
+                    "publicKey": "",
+                    "serverName": "ahg.alaviali.cfd",
+                    "shortId": "",
+                    "show": false,
+                    "spiderX": ""
+                },
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                }
+            },
+            "tag": "proxy"
+        },
+        {
+            "tag": "fragment",
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "AsIs",
+                "fragment": {
+                    "packets": "tlshello",
+                    "length": "100-200",
+                    "interval": "10-20"
+                }
+            },
+            "streamSettings": {
+                "sockopt": {
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                }
+            }
+        },
+        {
+            "protocol": "freedom",
+            "settings": {},
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "ip": [
+                    "0.0.0.0"
+                ],
+                "outboundTag": "proxy",
+                "port": "53",
+                "type": "field"
+            }
+        ]
+    }
+}
