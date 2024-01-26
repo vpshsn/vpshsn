@@ -1,4 +1,4 @@
-vless://pass@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=pars.parsilandpars.ir&allowInsecure=1#linkB-mtn A
-vless://pass@www-cloudflare.speedtest.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=pars.parsilandpars.ir&allowInsecure=1#linkA-mci A
+vless://pass@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=zed.engpower.ir&allowInsecure=1#linkB-mtn C
+vless://pass@www-cloudflare.speedtest.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=zed.engpower.ir&allowInsecure=1#linkA-mci C
 vless://pass@185.17.136.163:4433?security=reality&encryption=none&pbk=WFcJrcICmQ4hbetbdDn565CdSIpwVLjrYEpRC_Vd_i8&headerType=none&fp=chrome&spx=%2Fvps&type=tcp&flow=xtls-rprx-vision&sni=greenpepper.ir&sid=7660a3a6#linkR
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#لینک موقت
