@@ -1,4 +1,4 @@
 vless://pass@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=30.parsilandpars.ir&allowInsecure=1#linkB-mtn A
 vless://pass@190.93.247.155:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=30.parsilandpars.ir&allowInsecure=1#linkA-mci A
-vless://pass@iranserver.com:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=30.parsilandpars.ir&allowInsecure=1#linkA-mci A
+vless://pass@104.22.13.192:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=30.parsilandpars.ir&allowInsecure=1#linkA-mci 22
 vless://pass@185.17.136.163:4433?security=reality&encryption=none&pbk=WFcJrcICmQ4hbetbdDn565CdSIpwVLjrYEpRC_Vd_i8&headerType=none&fp=chrome&spx=%2Fvps&type=tcp&sni=greenpepper.ir&sid=7660a3a6#linkR
