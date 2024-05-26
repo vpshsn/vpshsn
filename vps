@@ -1,3 +1,4 @@
+vless://pass@zula.ir:8080?path=%2Fhsn&security=none&encryption=none&host=digikala.com.110.asus.vpshsn.ir.&type=ws&sni=4030.vpnhsn.ir#8080
 vless://pass@104.20.27.27:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=4030.vpshsn.ir&allowInsecure=1#link B
 vless://pass@190.93.247.155:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=4030.vpshsn.ir&allowInsecure=1#link BB
 vless://pass@104.22.13.192:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Stop&sni=4030.vpshsn.ir&allowInsecure=1#linkAB
